@@ -1,4 +1,4 @@
-# pythonlearning
+# Jupyter Notebook python
 储存了一些使用python过程中写的一些方便的脚本代码（包含网站爬取，数据分析等）
 
 
